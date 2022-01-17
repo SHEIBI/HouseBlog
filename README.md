@@ -15,7 +15,7 @@ npm run serve
 ### Technologies Used
 1. Vue
 2. Fire Base
-3. Resful Api
+3. Restful Api
 
  ### Instructions To use Blogs Application
  This Application Has two parts  In order for you to Create posts  Create an account in order for you to post and del, update
